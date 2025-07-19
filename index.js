@@ -4,7 +4,7 @@ const app = express();
 
 function createBot() {
   const bot = mineflayer.createBot({
-    host: " VOIDMC-ZX.aternos.me", // example: myserver.aternos.me
+    host: " voidmc-zx.aternos.me", // example: myserver.aternos.me
     port: 63131,
     username: "ITS_BEST",
     version: false
